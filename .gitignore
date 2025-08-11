@@ -26,3 +26,6 @@ Thumbs.db
 coverage/
 .eslintcache
 
+# Local git hooks (not for sharing)
+.githooks/
+
