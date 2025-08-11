@@ -9,6 +9,7 @@ dist
 
 
 deploy_to_azure.bat
+deploy_to_azure.ps1
 
 
 # Logs
