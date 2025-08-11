@@ -13,8 +13,9 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-  "@types/react": "^19.0.0",
-  "@types/react-dom": "^19.0.0",
+    "@azure/static-web-apps-cli": "^2.0.6",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
     "@vitejs/plugin-react-swc": "^3.5.0",
     "typescript": "^5.5.4",
     "vite": "^5.4.0"
