@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="app">
       <h1>Vite + React + TypeScript</h1>
-      <p>プロジェクトが正常に初期化されました。</p>
+      <p>３３３プロジェクトが正常に初期化されました。</p>
       <button onClick={() => setCount((c) => c + 1)}>count: {count}</button>
     </div>
   )
